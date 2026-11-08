@@ -1,0 +1,499 @@
+{
+  "shopName": "AEE 女装选款",
+  "status": "imported",
+  "updatedAt": "2026-11-08T09:33:25.490713+00:00",
+  "sourceUrl": "https://4mf6fnh7he2vh.doubao.link/app/app_17hn0trcr2x",
+  "sourceNote": "按用户提供的第一张二维码原网页整理；价格、库存及发货时间以商家确认为准。",
+  "contact": {
+    "wechat": "X_XIN-0109",
+    "phone": "18479795181"
+  },
+  "products": [
+    {
+      "code": "KLDD2609",
+      "name": "V领牛角扣短款双面呢大衣",
+      "category": "外套大衣",
+      "price": 130.0,
+      "colors": "黑色 / 灰色 / 米色 / 黄色 / 蓝色 / 紫色",
+      "sizes": "均码",
+      "fabric": "70%羊毛 · 手工双面呢",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/kldd2609_1.jpg",
+        "assets/real/kldd2609_2.jpg",
+        "assets/real/kldd2609_3.jpg",
+        "assets/real/kldd2609_4.jpg",
+        "assets/real/kldd2609_5.jpg",
+        "assets/real/kldd2609_6.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "KLDD816",
+      "name": "半高领卷边针织打底衫",
+      "category": "打底针织",
+      "price": 38.0,
+      "colors": "黑色 / 白色 / 深灰 / 红色 / 咖啡色 / 杏色",
+      "sizes": "均码",
+      "fabric": "弹力针织 · 贴身不扎",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/kldd816_1.jpg",
+        "assets/real/kldd816_2.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "CJ9985",
+      "name": "半高领抽绳针织打底衫",
+      "category": "打底针织",
+      "price": 45.0,
+      "colors": "黑色 / 白色 / 深灰 / 黄色 / 紫色 / 淡黄 / 草绿 / 杏色 / 藏青 / 咖色 / 粉色 / 燕麦 / 抹茶绿",
+      "sizes": "均码",
+      "fabric": "抽绳可调 · 细针织",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/cj9985_1.jpg",
+        "assets/real/cj9985_2.jpg",
+        "assets/real/cj9985_3.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "BYG8",
+      "name": "麻花圆领针织开衫",
+      "category": "打底针织",
+      "price": 74.0,
+      "colors": "深灰 / 梅粉",
+      "sizes": "均码",
+      "fabric": "麻花织法 · 微宽松",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/byg8_1.jpg",
+        "assets/real/byg8_2.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "BYG80",
+      "name": "圆领钉扣德绒打底上衣",
+      "category": "打底针织",
+      "price": 58.0,
+      "colors": "白色 / 咖色 / 纯黑",
+      "sizes": "均码",
+      "fabric": "德绒 · 加厚保暖",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/byg80_1.jpg",
+        "assets/real/byg80_2.jpg",
+        "assets/real/byg80_3.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "BYG00",
+      "name": "修身堆堆高领针织打底衫",
+      "category": "打底针织",
+      "price": 55.0,
+      "colors": "黑色 / 灰色 / 咖色",
+      "sizes": "均码",
+      "fabric": "修身弹力 · 堆堆领",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/byg00_1.jpg",
+        "assets/real/byg00_2.jpg",
+        "assets/real/byg00_3.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "BYG6",
+      "name": "半高领撞色条纹针织开衫",
+      "category": "打底针织",
+      "price": 75.0,
+      "colors": "咖色 / 橘色",
+      "sizes": "均码",
+      "fabric": "撞色条纹 · 细针织",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/byg6_1.jpg",
+        "assets/real/byg6_2.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "BYG50",
+      "name": "Polo领丝巾系带针织毛衣",
+      "category": "打底针织",
+      "price": 74.0,
+      "colors": "白色 / 浅灰 / 雾紫",
+      "sizes": "均码",
+      "fabric": "Polo领 · 配丝巾",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/byg50_1.jpg",
+        "assets/real/byg50_2.jpg",
+        "assets/real/byg50_3.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "JX211",
+      "name": "半高领细坑条修身针织打底",
+      "category": "打底针织",
+      "price": 49.9,
+      "colors": "黑色 / 白色 / 灰色 / 深灰",
+      "sizes": "均码",
+      "fabric": "细坑条 · 高弹修身",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/jx211_1.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "LYK86103",
+      "name": "四面弹直筒牛仔裤",
+      "category": "牛仔裤",
+      "price": 94.0,
+      "colors": "深蓝牛仔",
+      "sizes": "26/27/28/29/30",
+      "fabric": "四面弹 · YKK拉链",
+      "moq": "1 条起发",
+      "images": [
+        "assets/real/lk86103_1.jpg"
+      ],
+      "unit": "条"
+    },
+    {
+      "code": "LYK86150",
+      "name": "四面弹法棍牛仔裤",
+      "category": "牛仔裤",
+      "price": 90.0,
+      "colors": "黑色",
+      "sizes": "S / M / L",
+      "fabric": "四面弹 · YKK拉链",
+      "moq": "1 条起发",
+      "images": [
+        "assets/real/lk86150_1.jpg"
+      ],
+      "unit": "条"
+    },
+    {
+      "code": "LYK86100",
+      "name": "四面弹喇叭牛仔裤",
+      "category": "牛仔裤",
+      "price": 94.0,
+      "colors": "蓝色 / 宝蓝色",
+      "sizes": "26/27/28/29/30",
+      "fabric": "四面弹 · YKK拉链",
+      "moq": "1 条起发",
+      "images": [
+        "assets/real/lk86100_1.jpg"
+      ],
+      "unit": "条"
+    },
+    {
+      "code": "LYK86105",
+      "name": "四面弹喇叭牛仔裤",
+      "category": "牛仔裤",
+      "price": 94.0,
+      "colors": "蓝色 / 黑色",
+      "sizes": "26/27/28/29/30",
+      "fabric": "四面弹 · YKK拉链",
+      "moq": "1 条起发",
+      "images": [
+        "assets/real/lk86105_1.jpg"
+      ],
+      "unit": "条"
+    },
+    {
+      "code": "LYK86102",
+      "name": "四面弹气球阔腿牛仔裤",
+      "category": "牛仔裤",
+      "price": 75.0,
+      "colors": "黑色",
+      "sizes": "26/27/28/29/30",
+      "fabric": "四面弹 · YKK拉链",
+      "moq": "1 条起发",
+      "images": [
+        "assets/real/lk86102_1.jpg"
+      ],
+      "unit": "条"
+    },
+    {
+      "code": "WDL33005",
+      "name": "丹宁蓝阔腿七分牛仔裤",
+      "category": "牛仔裤",
+      "price": 85.0,
+      "colors": "丹宁蓝",
+      "sizes": "S",
+      "fabric": "81%棉 · 16%聚酯纤维 · 3%粘纤",
+      "moq": "1 条起发",
+      "images": [
+        "assets/real/wdl33005_1.jpg",
+        "assets/real/wdl33005_2.jpg",
+        "assets/real/wdl33005_3.jpg",
+        "assets/real/wdl33005_4.jpg"
+      ],
+      "unit": "条"
+    },
+    {
+      "code": "KW8891",
+      "name": "植绒阔腿牛仔裤",
+      "category": "加绒针织裤",
+      "price": 98.0,
+      "colors": "咖啡色 / 军绿灰",
+      "sizes": "26/27/28/29/30",
+      "fabric": "植绒加厚 · 高垂感阔腿",
+      "moq": "1 条起发",
+      "images": [
+        "assets/real/kw8891_1.jpg",
+        "assets/real/kw8891_2.jpg",
+        "assets/real/kw8891_3.jpg"
+      ],
+      "unit": "条"
+    },
+    {
+      "code": "KW66952",
+      "name": "植绒阔腿牛仔裤",
+      "category": "加绒针织裤",
+      "price": 98.0,
+      "colors": "咖啡色",
+      "sizes": "26/27/28/29/30",
+      "fabric": "植绒加厚 · 高垂感阔腿",
+      "moq": "1 条起发",
+      "images": [
+        "assets/real/kw66952_1.jpg"
+      ],
+      "unit": "条"
+    },
+    {
+      "code": "KW2232-1",
+      "name": "抓毛韩系高腰九分裤",
+      "category": "加绒针织裤",
+      "price": 98.0,
+      "colors": "灰绿色",
+      "sizes": "S / M / L / XL / 2XL / 3XL",
+      "fabric": "升级抓毛 · 高腰显瘦",
+      "moq": "1 条起发",
+      "images": [
+        "assets/real/kw2232_1.jpg",
+        "assets/real/kw2232_2.jpg",
+        "assets/real/kw2232_3.jpg",
+        "assets/real/kw2232_4.jpg",
+        "assets/real/kw2232_5.jpg"
+      ],
+      "unit": "条"
+    },
+    {
+      "code": "KW6659",
+      "name": "细闪抽绳阔腿针织裤",
+      "category": "加绒针织裤",
+      "price": 98.0,
+      "colors": "咖啡色",
+      "sizes": "25/26/27/28/29",
+      "fabric": "细闪针织 · 抽绳可调",
+      "moq": "1 条起发",
+      "images": [
+        "assets/real/kw6659_1.jpg",
+        "assets/real/kw6659_2.jpg"
+      ],
+      "unit": "条"
+    },
+    {
+      "code": "KW9182",
+      "name": "弹力复密密绒阔腿裤",
+      "category": "加绒针织裤",
+      "price": 98.0,
+      "colors": "咖啡色（同系列 9180 复古蓝 / 9181 黑色）",
+      "sizes": "26/27/28/29/30",
+      "fabric": "弹力复密 · 密绒加厚",
+      "moq": "1 条起发",
+      "images": [
+        "assets/real/kw9182_1.jpg",
+        "assets/real/kw9182_2.jpg",
+        "assets/real/kw9182_3.jpg",
+        "assets/real/kw9182_4.jpg",
+        "assets/real/kw9182_5.jpg",
+        "assets/real/kw9182_6.jpg"
+      ],
+      "unit": "条"
+    },
+    {
+      "code": "XX8047D1",
+      "name": "针织领配毛绒手套短款羽绒服",
+      "category": "羽绒服",
+      "price": 275.0,
+      "colors": "杏色 / 咖色",
+      "sizes": "S / M",
+      "fabric": "90白鸭绒",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/xx8047d1_1.jpg",
+        "assets/real/xx8047d1_2.jpg",
+        "assets/real/xx8047d1_3.jpg",
+        "assets/real/xx8047d1_4.jpg",
+        "assets/real/xx8047d1_5.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "XX5107D2",
+      "name": "连帽长款过膝羽绒服",
+      "category": "羽绒服",
+      "price": 258.0,
+      "colors": "咖色",
+      "sizes": "S / M",
+      "fabric": "90白鸭绒",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/xx5107d2_1.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "XX8030D5",
+      "name": "连帽波浪绗缝短款羽绒服",
+      "category": "羽绒服",
+      "price": 275.0,
+      "colors": "蓝色 / 杏色 / 咖色",
+      "sizes": "S / M",
+      "fabric": "90白鸭绒 · 配同款羽绒小包",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/xx8030d5_1.jpg",
+        "assets/real/xx8030d5_2.jpg",
+        "assets/real/xx8030d5_3.jpg",
+        "assets/real/xx8030d5_4.jpg",
+        "assets/real/xx8030d5_5.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "XX8114D1",
+      "name": "圆领横绗缝宽松短款羽绒服",
+      "category": "羽绒服",
+      "price": 269.0,
+      "colors": "咖色",
+      "sizes": "S / M",
+      "fabric": "90白鸭绒",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/xx8114d1_1.jpg",
+        "assets/real/xx8114d1_2.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "XX8016D2",
+      "name": "立领方格绗缝宽松短款羽绒服",
+      "category": "羽绒服",
+      "price": 268.0,
+      "colors": "咖色",
+      "sizes": "S / M",
+      "fabric": "90白鸭绒",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/xx8016d2_1.jpg",
+        "assets/real/xx8016d2_2.jpg",
+        "assets/real/xx8016d2_3.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "XX8060D12",
+      "name": "自带同面料围巾短款泡芙羽绒服",
+      "category": "羽绒服",
+      "price": 258.0,
+      "colors": "杏色 / 咖色 / 淡紫色",
+      "sizes": "S / M",
+      "fabric": "90白鸭绒 · 配同面料围巾",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/xx8060d12_1.jpg",
+        "assets/real/xx8060d12_2.jpg",
+        "assets/real/xx8060d12_3.jpg",
+        "assets/real/xx8060d12_4.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "2613",
+      "name": "两面穿套毛毛外套",
+      "category": "外套大衣",
+      "price": 145.0,
+      "colors": "黑色 / 米色 / 卡其色 / 咖啡色 / 橘色",
+      "sizes": "均码",
+      "fabric": "两面可穿 · 毛毛面料",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/c2613_1.jpg",
+        "assets/real/c2613_2.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "YD26126-38",
+      "name": "袖口狐狸毛斜襟双面呢羊绒大衣",
+      "category": "外套大衣",
+      "price": 385.0,
+      "colors": "黑色 / 米色 / 驼色 / 咖色",
+      "sizes": "S / M",
+      "fabric": "70%羊毛 · 手工双面呢",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/yd26126_1.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "KLDD8616",
+      "name": "短款拼接羊羔毛双面呢外套",
+      "category": "外套大衣",
+      "price": 260.0,
+      "colors": "咖啡色 / 白色 / 绿色 / 雾紫 / 纯黑",
+      "sizes": "S / M",
+      "fabric": "70%羊毛 · 拼接羊羔毛",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/kldd8616_1.jpg",
+        "assets/real/kldd8616_2.jpg",
+        "assets/real/kldd8616_3.jpg",
+        "assets/real/kldd8616_4.jpg",
+        "assets/real/kldd8616_5.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "KLDD8836",
+      "name": "翻领系带长款双面呢大衣",
+      "category": "外套大衣",
+      "price": 239.0,
+      "colors": "黑色 / 米色 / 咖色 / 灰色",
+      "sizes": "S / M",
+      "fabric": "70%羊毛 · 手工双面呢",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/kldd8836_1.jpg",
+        "assets/real/kldd8836_2.jpg"
+      ],
+      "unit": "件"
+    },
+    {
+      "code": "KLDD8507",
+      "name": "斜襟金色扣双面呢大衣",
+      "category": "外套大衣",
+      "price": 190.0,
+      "colors": "米色 / 灰色",
+      "sizes": "均码",
+      "fabric": "70%羊毛 · 手工双面呢",
+      "moq": "1 件起发",
+      "images": [
+        "assets/real/kldd8507_1.jpg",
+        "assets/real/kldd8507_2.jpg"
+      ],
+      "unit": "件"
+    }
+  ]
+}

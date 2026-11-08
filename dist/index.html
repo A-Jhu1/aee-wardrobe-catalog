@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f7f6f2">
+  <meta name="description" content="AEE 女装选款。31 款商品按打底针织、牛仔裤、加绒针织裤、羽绒服、外套大衣分类，查看图片、款号、价格和尺码。">
+  <title>AEE 女装选款 · 扫码看款</title>
+  <link rel="icon" type="image/svg+xml" href="assets/icon.svg">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.mjs" type="module"></script>
+</head>
+<body>
+  <header class="site-header">
+    <a href="#" class="brand" aria-label="AEE 女装选款首页"><span class="brand-icon" aria-hidden="true">A</span><span>AEE<small>女装选款 · SCAN & SELECT</small></span></a>
+    <nav aria-label="主导航"><a href="#catalog">商品目录</a><button class="text-button" data-open-source>联系选款 <span aria-hidden="true">↗</span></button></nav>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy"><div class="eyebrow"><span></span> YOUR EVERYDAY WARDROBE</div>
+        <h1 id="hero-title">好款，<br>一眼就看见<span>。</span></h1>
+        <p>针织、裤装、羽绒与大衣，按品类慢慢选。<br>看清价格和细节，记下款号，微信轻松询款。</p>
+        <a class="button primary" href="#catalog">浏览商品目录 <span aria-hidden="true">↓</span></a>
+        <div class="hero-footnote">31 款精选 <span>·</span> 5 类服装 <span>·</span> 手机随时看</div>
+      </div>
+      <div class="hero-art" aria-hidden="true"><div class="art-grain"></div><span class="art-label">LESS CLUTTER.<br>MORE STYLE.</span><svg viewBox="0 0 400 400" fill="none"><path d="M200 115v-17c0-30 43-31 43-1 0 14-13 17-25 27-7 6-12 12-12 23" stroke="currentColor" stroke-width="5" stroke-linecap="round"/><path d="M205 147 82 220c-17 10-10 30 8 30h228c18 0 25-20 8-30l-121-73Z" stroke="currentColor" stroke-width="5" stroke-linejoin="round"/><path d="m131 254-17 85m162-85 17 85" stroke="currentColor" stroke-width="2" opacity=".3"/></svg><span class="art-bottom">THE CURATED WARDROBE <span>01 / 09</span></span></div>
+    </section>
+
+    <section class="source-banner" aria-label="选款说明"><div class="status-icon" aria-hidden="true">i</div><div><strong>款号、价格与规格，一次看清</strong><p>图片与商品资料按原二维码页面整理。实际成交价、库存与发货时间请向商家确认。</p></div><button class="text-button" data-open-source>微信联系商家 <span aria-hidden="true">↗</span></button></section>
+
+    <section class="catalog" id="catalog" aria-labelledby="catalog-title">
+      <div class="section-heading"><div><span class="eyebrow">THE COLLECTION</span><h2 id="catalog-title">商品目录 <span id="totalCount">0 款</span></h2></div><p>找到适合你的那一款</p></div>
+      <div class="catalog-tools"><label class="search-box"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" stroke-width="1.6"/><path d="m16 16 4.5 4.5" stroke="currentColor" stroke-width="1.6"/></svg><input id="search" type="search" placeholder="搜索商品名称、款号或颜色" aria-label="搜索商品名称、款号或颜色" autocomplete="off"></label><label class="sort-box"><span class="sr-only">商品排序</span><select id="sort"><option value="default">默认排序</option><option value="price-asc">价格从低到高</option><option value="price-desc">价格从高到低</option></select></label></div>
+      <div class="filter-row"><div id="categories" class="categories" role="group" aria-label="按商品品类筛选"><button class="category active" data-category="全部" aria-pressed="true">全部商品</button></div><span id="resultCount" aria-live="polite">0 款商品</span></div>
+      <div id="products" class="product-grid"></div>
+      <div id="emptyState" class="empty-state" hidden><span class="empty-icon" aria-hidden="true"><svg viewBox="0 0 48 48" fill="none"><path d="M25 17v-3a4 4 0 1 1 6 3c-3 1-6 3-6 6L8 33c-3 2-2 5 1 5h30c3 0 4-3 1-5L25 23" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></span><h3 id="emptyTitle">暂时没有找到这款商品</h3><p id="emptyText">试试其他名称、款号，或切换到全部商品。</p><button class="button secondary" id="resetFilters">查看全部商品 <span aria-hidden="true">↗</span></button></div>
+      <noscript><p class="notice">请启用浏览器 JavaScript 查看商品目录，或向商家微信 X_XIN-0109 询款。</p></noscript>
+    </section>
+    <section class="how-it-works" aria-labelledby="how-title"><div><span class="eyebrow">KEEP IT SIMPLE</span><h2 id="how-title">选款，简单一点。</h2></div><ol><li><span>01</span><div><h3>按品类找款</h3><p>分类筛选，款号搜索。</p></div></li><li><span>02</span><div><h3>看清每个细节</h3><p>图片、颜色、尺码与价格。</p></div></li><li><span>03</span><div><h3>记下心仪款号</h3><p>复制商品信息，向商家询款。</p></div></li></ol></section>
+  </main>
+  <footer><a class="footer-brand" href="#">AEE <span>女装选款</span></a><p>商品资料按原二维码页面整理 · 价格与库存请向商家确认</p><button class="text-button" id="shareButton">分享本页 <span aria-hidden="true">↗</span></button></footer>
+
+  <dialog id="sourceDialog" aria-labelledby="sourceTitle"><div class="dialog-header"><div><span class="eyebrow">LET'S TALK STYLE</span><h2 id="sourceTitle">AEE · 联系选款</h2></div><button class="close-button" data-close aria-label="关闭联系方式">×</button></div><p class="dialog-intro">记下喜欢的款号，复制微信号后前往微信联系商家，确认颜色、尺码和件数。</p><div class="contact-card"><small>商家微信</small><strong id="wechatText">X_XIN-0109</strong><span>联系方式来自你提供的原二维码网页</span></div><button class="button primary full" id="copyWechat">复制微信号</button><a class="button secondary full call-button" href="tel:18479795181">拨打电话 · 18479795181</a><p class="dialog-note">以商家确认的实际价格和库存为准，本站不提供在线付款。</p></dialog>
+  <dialog id="productDialog" aria-labelledby="detailTitle"><div class="dialog-header"><span class="eyebrow">PRODUCT DETAILS</span><button class="close-button" data-close aria-label="关闭商品详情">×</button></div><div id="detailContent"></div></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

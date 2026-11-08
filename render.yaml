@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: aee-wardrobe-catalog
+    runtime: static
+    buildCommand: echo "Static catalog ready"
+    staticPublishPath: ./dist
+    headers:
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
