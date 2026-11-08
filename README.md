@@ -6,6 +6,8 @@
 
 ## 发布到 Render
 
+[打开 Render 部署设置](https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2FA-Jhu1%2Faee-wardrobe-catalog)
+
 通过 Render Blueprint 选择本仓库，确认服务类型是 Static Site，发布目录为 `dist`。仓库根目录的 `render.yaml` 已提供对应配置。也可以新建 Static Site，选择本仓库，Build Command 填 `echo "Static catalog ready"`，Publish Directory 填 `dist`。
 
 部署完成后使用平台返回的实际 HTTPS 地址，先验证匿名访问和商品图片，再生成指向该地址的二维码。需要在实际手机的微信中测试；电脑端测试不能替代手机网络测试。

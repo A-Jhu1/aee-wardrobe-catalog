@@ -2,6 +2,7 @@ services:
   - type: web
     name: aee-wardrobe-catalog
     runtime: static
+    autoDeployTrigger: off
     buildCommand: echo "Static catalog ready"
     staticPublishPath: ./dist
     headers:
